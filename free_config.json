@@ -1,6 +1,8 @@
 {
   "is_enabled": true,
   "free_key": "MADDOX-FREE-WKND",
-  "allowed_days": [ "Friday", "Sunday" ],
-  "announcement": "เปิดให้ทดลองใช้งานฟรีทุกวันเสาร์ - อาทิตย์!"
+  "allowed_days": [ "Friday", "Saturday", "Sunday" ],
+  "start_time": "12:00",
+  "end_time": "23:59",
+  "announcement": "เปิดให้ทดลองใช้งานฟรี เวลา 12:00 - 23:59 น."
 }
